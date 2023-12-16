@@ -23,6 +23,11 @@ string[] str = input.Split(", ");
 
 string[] res = GetResult(str);
 
+Console.WriteLine(str);
+Console.WriteLine("----------------------");
+Console.WriteLine("Результат:");
+Console.WriteLine(string.Join(", ", res));
+
 static string[] GetResult (string[] str)
 {
     int count = 0;
