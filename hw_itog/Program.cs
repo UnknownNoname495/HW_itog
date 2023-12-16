@@ -20,3 +20,26 @@
 Console.WriteLine("Введите элементы массива через запятую:");
 string input = Console.ReadLine();
 string[] str = input.Split(", ");
+
+string[] res = GetResult(str);
+
+static string[] GetResult (string[] str)
+{
+    int count = 0;
+        for (int i = 0; i < str.Length; i++)
+        {
+            if (str[i].Length <= 3) count++;
+        }
+
+        string[] res = new string[count];
+        int index = 0;
+        for (int i = 0; i < str.Length; i++)
+        {
+            if (str[i].Length <= 3)
+            {
+                res[index] = str[i];
+                index++;
+            }
+        }
+        return res;
+}
