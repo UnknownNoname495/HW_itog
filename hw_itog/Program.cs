@@ -16,3 +16,7 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
+Console.WriteLine("Введите элементы массива через запятую:");
+string input = Console.ReadLine();
+string[] str = input.Split(", ");
