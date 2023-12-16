@@ -23,7 +23,7 @@ string[] str = input.Split(", ");
 
 string[] res = GetResult(str);
 
-Console.WriteLine(str);
+Console.WriteLine(string.Join(", ", str));
 Console.WriteLine("----------------------");
 Console.WriteLine("Результат:");
 Console.WriteLine(string.Join(", ", res));

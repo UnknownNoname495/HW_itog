@@ -1,0 +1,15 @@
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\bin\Debug\net6.0\hw_itog.exe
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\bin\Debug\net6.0\hw_itog.deps.json
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\bin\Debug\net6.0\hw_itog.runtimeconfig.json
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\bin\Debug\net6.0\hw_itog.dll
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\bin\Debug\net6.0\hw_itog.pdb
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.csproj.AssemblyReference.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.AssemblyInfoInputs.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.AssemblyInfo.cs
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.csproj.CoreCompileInputs.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.dll
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\refint\hw_itog.dll
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.pdb
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\hw_itog.genruntimeconfig.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\HW_itog\hw_itog\obj\Debug\net6.0\ref\hw_itog.dll
